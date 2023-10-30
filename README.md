@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello 👋
+
+ - I work on non-code projects and raise issues on all projects
+ - My primary expertise is home assistant (and all of its related repos)
 
 <!--
 **Scoop2389/Scoop2389** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
