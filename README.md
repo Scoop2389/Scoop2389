@@ -1,7 +1,9 @@
-### Hello 👋
+### Hiya 👋
 
- - I work on non-code projects and raise issues to help fix bugs when something doesn't work
- - My primary expertise is home assistant (and all of its related repos)
+ - 👨‍💻 I make non-code contributions (including issues and documentation)
+ - Most of my contributions are to home assistant related projects
+ - First Issue: https://github.com/greghesp/ha-bambulab/issues/211
+ - First PR: https://github.com/home-assistant/home-assistant.io/pull/29465
 
 <!--
 **Scoop2389/Scoop2389** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
