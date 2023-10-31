@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
  - 👨‍💻 I make non-code contributions (including issues and documentation)
- - Most of my contributions are to home assistant related projects
+ - 🏡 Most of my contributions are to home assistant related projects
  - First Issue: https://github.com/greghesp/ha-bambulab/issues/211
  - First PR: https://github.com/home-assistant/home-assistant.io/pull/29465
 
