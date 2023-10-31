@@ -1,4 +1,4 @@
-### Hiya 👋
+### Hi there! 👋
 
  - 👨‍💻 I make non-code contributions (including issues and documentation)
  - Most of my contributions are to home assistant related projects
